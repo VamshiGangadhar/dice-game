@@ -1,0 +1,27 @@
+.player1{
+    float: left;
+    padding-left: 20%;
+}
+.player2{
+	float :right;
+    padding-right: 20%;
+}
+p{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+h2{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 0 #232931;
+    font-size: 2rem;
+    color: #4ECCA3;
+}
